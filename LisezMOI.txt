@@ -1,0 +1,58 @@
+A) Présentation de xMEDIC Ver 2.0
+B) Installation
+C) Utilisation
+D) Manuel d'utilisation
+
+A) Présentation de xMEDIC Ver 2.0
+--------------------------------------------------------------------------------------------
+xMEDIC est un logiciel de gestion d'un cabinet médical, ses atouts sont :
+
+•	UNE ARCHITECTURE CLIENT / SERVEUR 
+•	UNE BASE DE DONNEES ROBUSTE
+•	SECURISATION PAR MOT DE PASSE
+•	COUPLE NOM ET MOT DE PASSE POUR CHAQUE UTILISATEUR
+•	GESTION DE LA SALLE D’ATTENTE
+•	SUIVI DU PATIENT 
+•	MISE A JOUR DE LA LISTE DES MEDICAMENTS
+•	PLUSIEURS MODULES DE RECHERCHE
+•	INTERFACE TRES SIMPLE ET RICHE
+•	GESTION DES BILANS
+•	GESTION DES ANALYSES
+•	GESTION DES RDV
+•	IMPRESSION DE TOUS LES DOCUMENTS MEDICAUX ; ORDONNANCE ET DIFFERENTS CERTIFICATS 
+•	INSTALLATION MONOPOSTE OU RESEAU
+
+
+B) Installation
+--------------------------------------------------------------------------------------------
+I – Installation de Firebird
+Si vous disposez de Firebird version 2.5 ou plus sur votre machine vous pouvez passer cette étape.
+Sinon double cliquer sur « Firebird-2.5.1.26351_1_Win32 », ne modifier aucun paramètre continuer l’installation 
+jusqu’à la fin sans redémarrer votre PC.
+
+II – Installation de xMEDIC 
+* Créer un répertoire dans votre partition C, D ou autre et nommé le xMEDIC.
+* Copier le fichier xMEDIC.EXE dans votre répertoire.
+* Copier également les fichier xMEDIC.FDB et français.ini dans le même répertoire.
+
+C) Utilisation
+--------------------------------------------------------------------------------------------
+xMEDIC version Evaluation est livré avec deux compte:
+
+Nom d'utilisateur		|	Mot de passe
+----------------------------------------------------
+Docteur				|	doc
+Secretaire			|	sec
+
+	
+/********************************************************************************************/
+Note: 
+Cette version est une version d'évaluation donc elle est limitée dans ces fonctions et dans le temps, 
+pour avoir la version complète vous pouvez nous contacter sur notre mail xmedicpro@gmail.com
+/********************************************************************************************/
+
+D) Pour une première utilisation vous avez le manul en format pdf.
+
+IMPORTANT : si une erreur quelconque surgie pendant l'utilisation de xMEDIC veuillez nous rapporter le 
+message d'erreur pour résoudre le dysfcontionnement dans les meilleurs délais.
+
