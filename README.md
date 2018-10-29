@@ -1,5 +1,4 @@
 # JustSoft
-Un entrepôt d'application spécialisées pour tout un chacun sans restriction d'utilisation.
 xMedic est un applicatif métier pour la gestion d'un cabinet médical. 
 Il utilise une base de données firebird, et a été codé totalement avec delphi 2010.
 C'est un applicatif qui fonctionne en mono comme il peut tourner dans un environnement réseau.
