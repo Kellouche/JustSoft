@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/02 12:27:44.000.260,C:\Users\xmedi\Downloads\Mastering-FireMonkey-Delphi-master\WeatherAppFMXWeatherStackAPI\ConvertApp.dproj=C:\Users\xmedi\Downloads\Mastering-FireMonkey-Delphi-master\WeatherAppFMXWeatherStackAPI\WeatherApp.dproj</Transaction>
+    <Transaction>2022/11/15 11:44:29.000.417,C:\Users\xmedi\Downloads\Mastering-FireMonkey-Delphi-master\WeatherAppFMXWeatherStackAPI\ConvertAppDelphi.MainUnit.fmx=C:\Users\xmedi\Downloads\Mastering-FireMonkey-Delphi-master\WeatherAppFMXWeatherStackAPI\WeatherAppDelphi.MainUnit.fmx</Transaction>
+    <Transaction>2022/11/15 11:44:29.000.417,C:\Users\xmedi\Downloads\Mastering-FireMonkey-Delphi-master\WeatherAppFMXWeatherStackAPI\ConvertAppDelphi.MainUnit.pas=C:\Users\xmedi\Downloads\Mastering-FireMonkey-Delphi-master\WeatherAppFMXWeatherStackAPI\WeatherAppDelphi.MainUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
